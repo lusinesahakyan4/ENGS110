@@ -1,0 +1,1 @@
+On 23rd of January we had our second class where we discussed Unix and Linux. Linux is based on Unix but is open source and free. Then we talked about many Linux commands such as mv (move), ls (list), mkdir (create directory) and so on.
