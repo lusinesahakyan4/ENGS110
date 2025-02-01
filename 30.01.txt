@@ -1,0 +1,1 @@
+On the 30th we started the lecture with binary numbers, compared them with decimals, discussed their sizes and learned how to add them up. During the next half of the lecture we discussed Git, how to use it and some commands. Satenik joined us as well.
