@@ -1,0 +1,1 @@
+On 4th of February we started the class with data represantation and types. We viewed some XML examples and learned about Onthology. At the end of the session we learned about algorithms, solved some problems such as reversing a string, executed them using C while learning some commands like printf() and scanf().
