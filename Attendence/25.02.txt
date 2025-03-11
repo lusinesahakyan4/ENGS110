@@ -1,0 +1,1 @@
+On February 25th, we discussed our projects (both software and hardware), explored potential ideas and topics to choose from, such as interpolation, hashing, CRC32, and more. We also covered the differences between local and global variables, as well as the concepts of debug mode and release mode.

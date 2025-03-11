@@ -1,0 +1,1 @@
+On February 6th, we focused on the fundamental commands of C and were introduced to control flow. The session covered functions, if-else and switch-case structures, as well as loops like while and for.

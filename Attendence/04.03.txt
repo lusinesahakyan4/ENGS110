@@ -1,0 +1,1 @@
+On March 4th, we continued our discussion on mutex and threads, exploring their concepts and implementing them in code, including parallel executions.
