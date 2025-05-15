@@ -1,0 +1,1 @@
+On April 8, we continued exploring file connections and library creation, and kept developing functions for our custom string library.
