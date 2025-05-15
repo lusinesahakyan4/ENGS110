@@ -1,0 +1,2 @@
+On April 3, we discussed how files are organized and connected in C, focusing on the roles of .h and .c files, their purposes, and how they interact in a program.
+In C, .h files typically contain declarations (like function prototypes and macros), while .c files contain the actual implementation of those functions.
