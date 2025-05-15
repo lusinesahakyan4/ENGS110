@@ -1,0 +1,2 @@
+On April 17, we discussed how to create our own libraries and explored implementing structures and pointers to structures within them.
+Using structures and their pointers in libraries helps organize related data and allows efficient data manipulation across different parts of a program.
