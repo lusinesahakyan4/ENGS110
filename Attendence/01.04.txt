@@ -1,0 +1,2 @@
+On April 1st, we learned about structures in C.
+Structures in C are user-defined data types that allow grouping variables of different types under a single name.
