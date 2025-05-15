@@ -1,0 +1,2 @@
+On April 29 class, we covered lists, how they function and the basics of working with them in C.
+Lists are data structures used to store sequences of elements, allowing dynamic memory management and flexible data handling.
