@@ -1,0 +1,2 @@
+On March 27, we learned about FSM and did a traffic light simulation exercise.
+FSM, or Finite State Machine, is a computational model used to design systems that transition between different states based on inputs.
